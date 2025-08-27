@@ -64,5 +64,3 @@ The dataset contained inconsistencies like missing values, duplicates, and forma
 - **Visualization:** Looker Studio  
 
 ---
-
-Made with ❤️ by **Sama Ahmed**
