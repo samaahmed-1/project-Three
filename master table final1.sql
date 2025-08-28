@@ -1,9 +1,3 @@
--- Start a transaction to ensure atomicity and visibility
-BEGIN;
-
--- Drop the existing master_table if it exists
-DROP TABLE IF EXISTS master_table;
-
 -- Step 1: Define the final Master Table Structure
 CREATE TABLE master_table (
     master_record_id SERIAL PRIMARY KEY,
@@ -198,3 +192,4 @@ LEFT JOIN
 
 -- Commit the transaction to make changes permanent
 COMMIT;
+
