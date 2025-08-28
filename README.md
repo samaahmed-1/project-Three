@@ -15,7 +15,7 @@ This **interactive dashboard** provides a detailed overview of learners particip
 
 
 ## 📸 Visual Preview
-![Learner_Overview_Dashboard1_page-0001](https://github.com/user-attachments/assets/7a2a944e-3ff9-4e7c-9b2b-a4c63e918c20)
+![Learner_Overview_Dashboard1_page-0001](https://github.com/samaahmed-1/project-Three/blob/main/Learner_Overview_Dashboard1_page-0001%20(1).jpg)
 https://lookerstudio.google.com/reporting/0d662c0c-a6c7-4609-a21e-ae450534820d
 
 
