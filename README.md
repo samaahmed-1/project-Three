@@ -1,5 +1,5 @@
 # Project-Three
-# Learner Overview Dashboard – Excelerate Data Visualization Virtual Internship 📊
+# Learner Overview Dashboard 📊
 
 <p align="center">
   <img width="300" height="112" src="https://github.com/user-attachments/assets/b980519a-c3f5-4cff-9769-0ad53abdba34" alt="Excelerate Dashboard Banner">
